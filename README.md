@@ -9,4 +9,7 @@ mysql phpmyadmin docker compose install
 
 ### goto project path
 `cd docker-compose-mysql`
+### run project with
 `docker compose up -d`
+### stop project with
+`docker compose stop`
